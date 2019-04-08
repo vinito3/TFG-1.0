@@ -1,6 +1,6 @@
 Win
 PlayerPath?
-C:/Users/ibaid/Desktop/EjecutablesProyectoPrueba/15.45/Photon - Multiplayer.exe
+C:/PRUEBAS/Photon - Multiplayer.exe
 SceneListBegin?
 Assets/_Scenes/Main Menu.unity
 Assets/_Scenes/Game.unity
@@ -26,7 +26,7 @@ e1bbf0ab858085e38fae6b12ebbdcd35 UnityEngine.Timeline.dll:UnityEngine.Timeline.P
 201e3fde670b00545944bb3db215c80a UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
 ee1dba1a186ac062d564e9eb73a1c56f PhotonUnityNetworking.Utilities.dll:Photon.Pun.UtilityScripts.GraphicToggleIsOnTransition
 3ba023cd67d72cace33969ab863e0fd4 PhotonUnityNetworking.Utilities.dll:Photon.Pun.UtilityScripts.PhotonStatsGui
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Bullet
+ed68c840aa5b1b7df5029a6fec65b176 Assembly-CSharp.dll:.Bullet
 f6b65bbafeff42f8490b41636ec8fe2e Assembly-CSharp.dll:.VoipStarter
 e7a73f5f78ba6445195ec23b74a1ce2d Unity.TextMeshPro.dll:TMPro.TMP_ScrollbarEventHandler
 2b1d1de79e4d31f1861f586502176c81 PhotonUnityNetworking.dll:Photon.Pun.PhotonAnimatorView
@@ -187,7 +187,7 @@ cf96e5f7b3d069bab453925bd41be04e UnityEngine.TestRunner.dll:UnityEngine.TestTool
 259d013faac28e8ba0aa2a7542273735 UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.RemoteTestResultSender
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.TestResultRendererCallback
-0d042cd0ade7cb71e18cb469e7a3cebb Assembly-CSharp.dll:.Player
+aed9fbedf14a6da317c76f646fa93683 Assembly-CSharp.dll:.Player
 931f489e44eadf809e9310429c99dde5 UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioListenerExtension
 fb6a1ea36b4f6ef5948d283d93760765 UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 5b0391b7e3d9ea9db6c0a8fbd0ca23f6 UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioSoundfieldExtension
@@ -206,7 +206,6 @@ a4f0a4f62100f1a4fb5cbe0e00dde83f Unity.TextMeshPro.dll:TMPro.TextMeshProUGUI
 d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 c5fd97cc10b89deaf7c60af66a6b0d5a PhotonRealtime.dll:Photon.Realtime.SupportLogger
 3f600ad0f750f59238a91f7513b927c1 PhotonUnityNetworking.dll:Photon.Pun.PhotonTransformViewClassic
-9ee4e69a1287bfe259ceea86d29c1920 Assembly-CSharp.dll:.Weapon
 71bb6a6b6c8f052f948db64c7dd3ca4f PhotonUnityNetworking.Utilities.dll:Photon.Pun.UtilityScripts.OnPointerOverTooltip
 f321d7bcb3e74aa2d128061d17763d90 Assembly-CSharp.dll:BeardedManStudios.Forge.Networking.Unity.ServerBrowserItem
 e47e5c2476dd5b51d2422e93ca858c84 Assembly-CSharp.dll:.CubeForgeGame
@@ -219,5 +218,6 @@ c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 d9864ada3db659b8d6f66a20aff414b3 PhotonUnityNetworking.dll:Photon.Pun.PhotonView
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
 87207d40b89ca632396b05b3cb1e69b0 PhotonUnityNetworking.Utilities.dll:Photon.Pun.UtilityScripts.PlayerNumbering
+c09df0806e94a65cb545737a2f4f1cb8 Assembly-CSharp.dll:.PlayerAnimationManager
 c8283c7732e3b6aa70d28f1fed4430ca PhotonUnityNetworking.Utilities.dll:Photon.Pun.UtilityScripts.CountdownTimer
 bb029bccab6650886cdadaeb09fcec4d Assembly-CSharp.dll:.MultiplayerMenu

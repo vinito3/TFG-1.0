@@ -31,5 +31,13 @@ MonoBehaviour:
   RpcList:
   - SetColor
   - SetRandomColor
+  - Correr
+  - disparoFalse
+  - disparoTrue
+  - correrFalse
+  - correrTrue
+  - hurt
+  - saltoFalse
+  - saltoTrue
   DisableAutoOpenWizard: 1
   ShowSettings: 0
